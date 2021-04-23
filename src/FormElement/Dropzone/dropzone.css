@@ -1,0 +1,18 @@
+.orColumn {
+  text-align: center;
+  font-weight: 500;
+  padding-right: 0% !important;
+}
+
+.uploadButton {
+  color: black !important;
+  background-color: white !important;
+}
+
+.spinnerDiv {
+  display: flex;
+  justify-content: center;
+  background-color: #edfaeb;
+  border: 1px ridge #7edc7e !important;
+  padding: 24px;
+}
